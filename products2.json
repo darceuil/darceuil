@@ -112,7 +112,7 @@
 },
 {
 "Id": "m97S114_grande",
-"name":"97S114 WOMEN'S DIAMOND WATCH",
+"name":"WOMEN'S DIAMOND WATCH",
 "img":"m97S114_grande.jpg",
 "cost":500.0,
 "msrp":2950.0,
@@ -134,7 +134,7 @@
 },
 {
 "Id": "m98P157_grande",
-"name":"98P157 WOMEN'S FUTURO WATCH",
+"name":"WOMEN'S FUTURO WATCH",
 "img":"m98P157_grande.jpg",
 "cost":2950.0,
 "msrp":500.0,
@@ -156,13 +156,13 @@
 },
 {
 "Id": "m96R215_grande",
-"name":"96R215 Women's Marine Star Diamond Watch",
+"name":"Women's Marine Star Diamond Watch",
 "img":"m96R215_grande.jpg",
 "cost":500.0,
 "msrp":2950.0,
 "qty":5,
 "backOrderQty":3,
-"description":" From the Marine StarCollection. New Marine Star in stainless steel case with 29 diamonds individually hand set on silver-tone accented bezel and dial, midnight blue mother-of-pearl inner dial, sapphire glass, screw-back case, stainless steel bracelet with double-press deployant closure, and water resistance to 100 meters.",
+"description":"From the Marine StarCollection. New Marine Star in stainless steel case with 29 diamonds individually hand set on silver-tone accented bezel and dial, midnight blue mother-of-pearl inner dial, sapphire glass, screw-back case, stainless steel bracelet with double-press deployant closure, and water resistance to 100 meters.",
 "brand":"Bulova"
 }
 ]
